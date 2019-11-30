@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Analyzer
+comment0.text=\r\n\ Analyzer\ analyzes\ website\ traffic\ data.\r\n\r\n\ @author\ Linda\r\n\ @version\ 20191123\r\n
+comment1.params=
+comment1.target=Analyzer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Analyzer\r\n
+comment2.params=
+comment2.target=void\ fetchData()
+comment2.text=\r\n\ The\ following\ method\ simulates\ fetching\ data\ by\ creating\ some\ random\ test\r\n\ Visits\ that\ can\ be\ analyzed\r\n
+comment3.params=
+comment3.target=void\ printAll()
+comment3.text=\r\n\ The\ following\ method\ prints\ the\ logged\ visits\r\n
+comment4.params=date
+comment4.target=void\ analyze(java.lang.String)
+comment4.text=\r\n\ The\ following\ method\ calls\ a\ method\ to\ analyze\ logged\ visits\r\n\ and\ then\ calls\ a\ method\ to\ print\ the\ results.\r\n
+comment5.params=date
+comment5.target=int[]\ getHourlyCounts(java.lang.String)
+comment5.text=\r\n\ The\ following\ method\ gets\ the\ amount\ of\ visits\ per\ hour\ \r\n\ for\ a\ specific\ day\r\n
+comment6.params=array
+comment6.target=void\ printArray(int[])
+comment6.text=\r\n\ The\ following\ method\ prints\ the\ elements\ of\ an\ array\r\n
+comment7.params=array
+comment7.target=void\ printArrayWithIndex(int[])
+comment7.text=\r\n\ The\ following\ method\ prints\ elements\ of\ an\ array\ with\ \r\n\ their\ indices\r\n
+numComments=8
